@@ -15,8 +15,8 @@ body{
       display: flex;
       justify-content: space-evenly;
       align-items: center;
-      background-color:#be93d4;
-      border-radius: 50px;
+      background-color:black;
+     border-radius:50px;
     }
   .navbar{
   text-decoration: none;
@@ -29,7 +29,6 @@ body{
   width: 900px;
   justify-content: space-around;
 }
-.logo{
-  height: 190px;
-  width: 160px;
+.navbar:hover{
+  color: gold;
 }
